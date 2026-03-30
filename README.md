@@ -2,7 +2,7 @@
 ### Live Demo: [https://nxt-build-two.vercel.app](https://nxt-build-two.vercel.app)
 
 
-Screenshot 2026-03-30 222520.png
+
 NxtBuild is a full-stack platform that transforms natural language prompts into functional, production-ready web components. By leveraging Large Language Models, it automates the "idea-to-code" workflow for developers and designers.
 
 ---
